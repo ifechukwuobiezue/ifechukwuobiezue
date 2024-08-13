@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=000000&font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ifechukwu+Obiezue!;">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=#FFD700&font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ifechukwu+Obiezue!;">
 </h1>
 <h3 align="center">A Software developer and technical writer with a passion for creating captivating user-friendly software's and writing various in-depth articles.</h3>
 <img
