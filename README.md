@@ -35,6 +35,8 @@
 
 <!-- - ⚡ Fun fact **Nothing is funny** -->
 
+<!-- GitAds-Verify: 11WS2C3OWQ31BCNUKIYSTFOD7CDTZ9UQ -->
+
 ### Blogs posts:
 <ul>
   <li><a href="https://ifechukwuobiezue.hashnode.dev/mastering-modern-authentication-in-web-applications-oauth-20-demystified">Mastering Modern Authentication in Web Applications: Oauth 2.0 Demystified
